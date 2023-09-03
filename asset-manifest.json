@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.511111a9.css",
-    "main.js": "/static/js/main.b29e1aa7.js",
+    "main.css": "/static/css/main.609e17d0.css",
+    "main.js": "/static/js/main.67e5ab24.js",
     "static/media/animation_llh1f76d_small.gif": "/static/media/animation_llh1f76d_small.5cae1aff3e4db9917869.gif",
     "static/media/ImgErrorPage.png": "/static/media/ImgErrorPage.855ab9d1b5a7958de7f9.png",
+    "static/media/ProductsPageImg.png": "/static/media/ProductsPageImg.3980f5704d9eed30b74d.png",
     "static/media/RegPageImg.png": "/static/media/RegPageImg.e2f6c663852132438e9e.png",
+    "static/media/EmptyCatalogPage.svg": "/static/media/EmptyCatalogPage.bc81a6fbe1420e5ee58de298fe3974cc.svg",
+    "static/media/UserPageImg.png": "/static/media/UserPageImg.fb78f569d7f9e7faa3ad.png",
     "static/media/ImgLoginPage.png": "/static/media/ImgLoginPage.b7c1e46621c4e8e08b51.png",
     "static/media/free-icon-tree-740936.png": "/static/media/free-icon-tree-740936.d54644b8661a02c1fc82.png",
     "static/media/roboto-latin-500-normal.woff2": "/static/media/roboto-latin-500-normal.f25d774ecfe0996f8eb5.woff2",
@@ -64,11 +67,11 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/static/media/roboto-greek-ext-400-normal.f708607d2a7290fb8bfa.woff",
     "static/media/roboto-greek-ext-700-normal.woff": "/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/index.html",
-    "main.511111a9.css.map": "/static/css/main.511111a9.css.map",
-    "main.b29e1aa7.js.map": "/static/js/main.b29e1aa7.js.map"
+    "main.609e17d0.css.map": "/static/css/main.609e17d0.css.map",
+    "main.67e5ab24.js.map": "/static/js/main.67e5ab24.js.map"
   },
   "entrypoints": [
-    "static/css/main.511111a9.css",
-    "static/js/main.b29e1aa7.js"
+    "static/css/main.609e17d0.css",
+    "static/js/main.67e5ab24.js"
   ]
 }
