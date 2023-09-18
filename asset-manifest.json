@@ -1,15 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.609e17d0.css",
-    "main.js": "/static/js/main.84b6f830.js",
+    "main.css": "/static/css/main.f4ee3828.css",
+    "main.js": "/static/js/main.4104eec9.js",
+    "static/media/fon-trava.jpeg": "/static/media/fon-trava.cd4da9d51afa39024f74.jpeg",
+    "static/media/PlantsRoom.png": "/static/media/PlantsRoom.f4efcdd6c172c6b47226.png",
+    "static/media/FooterImg.png": "/static/media/FooterImg.d31255e2bf2a1d72ea68.png",
+    "static/media/Nargiza.jpg": "/static/media/Nargiza.2965d29978812341ba40.jpg",
     "static/media/animation_llh1f76d_small.gif": "/static/media/animation_llh1f76d_small.5cae1aff3e4db9917869.gif",
     "static/media/ImgErrorPage.png": "/static/media/ImgErrorPage.855ab9d1b5a7958de7f9.png",
     "static/media/ProductsPageImg.png": "/static/media/ProductsPageImg.3980f5704d9eed30b74d.png",
+    "static/media/Banner.avif": "/static/media/Banner.cb0827310a4d51bd4a10.avif",
     "static/media/RegPageImg.png": "/static/media/RegPageImg.e2f6c663852132438e9e.png",
+    "static/media/promoIcon3.png": "/static/media/promoIcon3.5d6cdc1f41c76d7ec8f9.png",
+    "static/media/BasketPageImg.png": "/static/media/BasketPageImg.e8343ecba6a14a847b30.png",
+    "static/media/promoIcon1.png": "/static/media/promoIcon1.7d867b0fda8dc30bbae6.png",
+    "static/media/promoIcon2.png": "/static/media/promoIcon2.3a804e31c1831718d2e3.png",
     "static/media/EmptyCatalogPage.svg": "/static/media/EmptyCatalogPage.bc81a6fbe1420e5ee58de298fe3974cc.svg",
     "static/media/UserPageImg.png": "/static/media/UserPageImg.fb78f569d7f9e7faa3ad.png",
+    "static/media/Evguenia.jpeg": "/static/media/Evguenia.2c8625b55c07a093387d.jpeg",
+    "static/media/Logo.png": "/static/media/Logo.ab8b5ed2aa283ff7796c.png",
     "static/media/ImgLoginPage.png": "/static/media/ImgLoginPage.b7c1e46621c4e8e08b51.png",
-    "static/media/free-icon-tree-740936.png": "/static/media/free-icon-tree-740936.d54644b8661a02c1fc82.png",
+    "static/media/Ilya.jpeg": "/static/media/Ilya.8d45ba0be6a1da53026d.jpeg",
     "static/media/roboto-latin-500-normal.woff2": "/static/media/roboto-latin-500-normal.f25d774ecfe0996f8eb5.woff2",
     "static/media/roboto-latin-700-normal.woff2": "/static/media/roboto-latin-700-normal.227c93190fe7f82de3f8.woff2",
     "static/media/roboto-latin-400-normal.woff2": "/static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2",
@@ -67,11 +78,11 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/static/media/roboto-greek-ext-400-normal.f708607d2a7290fb8bfa.woff",
     "static/media/roboto-greek-ext-700-normal.woff": "/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/index.html",
-    "main.609e17d0.css.map": "/static/css/main.609e17d0.css.map",
-    "main.84b6f830.js.map": "/static/js/main.84b6f830.js.map"
+    "main.f4ee3828.css.map": "/static/css/main.f4ee3828.css.map",
+    "main.4104eec9.js.map": "/static/js/main.4104eec9.js.map"
   },
   "entrypoints": [
-    "static/css/main.609e17d0.css",
-    "static/js/main.84b6f830.js"
+    "static/css/main.f4ee3828.css",
+    "static/js/main.4104eec9.js"
   ]
 }
