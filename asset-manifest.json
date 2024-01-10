@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f4ee3828.css",
-    "main.js": "/static/js/main.2cb28759.js",
+    "main.js": "/static/js/main.691f7630.js",
     "static/media/fon-trava.jpeg": "/static/media/fon-trava.cd4da9d51afa39024f74.jpeg",
     "static/media/PlantsRoom.png": "/static/media/PlantsRoom.f4efcdd6c172c6b47226.png",
     "static/media/FooterImg.png": "/static/media/FooterImg.d31255e2bf2a1d72ea68.png",
@@ -79,10 +79,10 @@
     "static/media/roboto-greek-ext-700-normal.woff": "/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/index.html",
     "main.f4ee3828.css.map": "/static/css/main.f4ee3828.css.map",
-    "main.2cb28759.js.map": "/static/js/main.2cb28759.js.map"
+    "main.691f7630.js.map": "/static/js/main.691f7630.js.map"
   },
   "entrypoints": [
     "static/css/main.f4ee3828.css",
-    "static/js/main.2cb28759.js"
+    "static/js/main.691f7630.js"
   ]
 }
